@@ -4,7 +4,11 @@ Water availability and freeze-risk platform for cold mountain regions (Gilgit-Ba
 Flask + SQLite backend, Bootstrap 5 / Leaflet / Chart.js frontend.
 
 ## Team
-Add team members (2–4) here.
+** Team Frostfind**
+- Tanisha 
+- Hans
+- Archita 
+- Duroop
 
 ## Setup
 ```bash
